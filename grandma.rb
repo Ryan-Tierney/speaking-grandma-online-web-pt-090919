@@ -6,4 +6,5 @@ elsif  "#{phrase}" == "#{phrase}".upcase
 else 
   return "HUH?! SPEAK UP, SONNY!"
 end
+end
 
